@@ -45,7 +45,7 @@
 
 <!-- SKILLS -->
 
-# 💻 Tech Stack I Work With
+## 💻 Tech Stack I Work With
 
 ### Front End
 <p align="left">
