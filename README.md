@@ -85,7 +85,8 @@
 
 ### Other Tools
 <p align="left">
-
+<img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Vscode-007ACC.svg?&style=for-the-badge&logo=vscode&logoColor=white" height="25"/>
 </p>
 
 
