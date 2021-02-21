@@ -79,7 +79,8 @@
 
 ### Databases
 <p align="left">
-
+<img src="https://img.shields.io/badge/PSQL-336791.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white" height="25"/>
 </p>
 
 ### Other Tools
