@@ -47,34 +47,45 @@
 
 ## 💻 Tech Stack I Work With
 
+### Programming Languages
+<p align="left">
+<img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=Django&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/typescript-3178c6.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
+<img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</p>
+
 ### Front End
 <p align="left">
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=html5&logoColor=white">
+<img  src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img  src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/typescript-3178c6.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
 <img  src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=css3&logoColor=white">
 <img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+
 </p>
 
 ### Back End
 <p align="left">
 <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
-
-<img src="https://img.shields.io/badge/typescript-3178c6.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
-
-<img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
-
-<img src="https://img.shields.io/badge/mysql-e97b00.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
-
-<img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-336791.svg?&style=for-the-badge&logo=sqlite&logoColor=white" height="25"/>
-
+<img src="https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=Django&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Django-092D1F.svg?&style=for-the-badge&logo=Django&logoColor=white" height="25"/>
 </p>
 
 
+### Databases
+<p align="left">
+
+</p>
+
+### Other Tools
+<p align="left">
+
+</p>
 
 
 
