@@ -1,6 +1,6 @@
 <!-- WELCOME -->
 
-<p align="center"><a href="#"><img width="20%" height="auto" src="https://github.com/vivsvaan/vivsvaan/blob/main/img/developer.svg" height="175px"/></a></p>
+<p align="center"><a href="#"><img width="50%" height="auto" src="https://github.com/vivsvaan/vivsvaan/blob/main/img/developer.svg" height="175px"/></a></p>
   
   <h3 align="center">Hey there 👋, I'm <a target="_blank" href="https://vivsvaan.com/">Vivsvaan</a></h3>
   <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
