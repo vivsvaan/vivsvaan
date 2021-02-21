@@ -56,7 +56,7 @@
 </p>
 
 <details>
-  <summary>Front End</summary>
+  <summary><b>Front End</b></summary>
 <p align="left">
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 <img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -70,28 +70,32 @@
 </p>
 </details>
 
-### Back End
+<details>
+  <summary><b>Back End</b></summary>
 <p align="left">
 <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Django-092D1F.svg?&style=for-the-badge&logo=Django&logoColor=white" height="25"/>
 </p>
+</details>
 
-
-### Databases
+<details>
+  <summary><b>Databases</b></summary>
 <p align="left">
 <img src="https://img.shields.io/badge/PSQL-336791.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white" height="25"/>
 </p>
+</details>
 
-### Other Tools
+<details>
+  <summary><b>Other Tools</b></summary>
 <p align="left">
 <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=black" height="25"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" height="25"/>
-
 </p>
+</details>
 
 
 
