@@ -14,7 +14,7 @@
   
   * A passionate individual who loves programming, a developer and designer by passion, an engineer by profession and a gamer by interest.
   * I'm a full stack web developer
-  * I'm a Computer Science student (graduated in July 2021)
+  * I'm a Computer Science student (graduated in July 2020)
   * You can see some of my projects on [my portfolio](#)
   
 
