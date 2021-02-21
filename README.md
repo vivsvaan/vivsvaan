@@ -1,3 +1,5 @@
+<!-- WELCOME -->
+
 <a href="#"><img width="100%" height="auto" src="https://github.com/vivsvaan/vivsvaan/blob/main/img/developer.svg" height="175px"/></a>
   
   <h3 align="center">Hey there 👋, I'm <a target="_blank" href="https://vivsvaan.com/">Vivsvaan</a></h3>
@@ -5,6 +7,8 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3> -->
   <h3 align="center">Developer | Engineer</h3>
  
+ 
+ <!-- ABOUT ME-->
   
   ## 📖 About me
   
@@ -14,7 +18,9 @@
   * 🌐 You can see some of my projects on [my portfolio](https://freshidea.com/jonah/)
   * 📺 I make web development and tech tutorials on [YouTube](https://www.youtube.com/c/DevProTips)
   
-  
+
+<!-- CONNECT ME-->
+
 <h3 align="right">Connect with me :</h3>
 <a href="https://linkedin.com/in/vivsvaan">
   <img align="right" alt="Vivsvaan Sharma - LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
