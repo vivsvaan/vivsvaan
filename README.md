@@ -30,7 +30,7 @@
 <a href="https://linkedin.com/in/vivsvaan">
   <img align="right" alt="Vivsvaan Sharma - LinkedIn" width="22px" src="img/linkedin.svg"/>
 </a>
-<a href="vivsvaan.com">
+<a href="https://vivsvaan.com">
   <img align="right" alt="Vivsvaan Sharma" width="22px" src="img/chrome.svg"/>
 </a>
 <br/>
