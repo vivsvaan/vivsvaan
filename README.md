@@ -21,6 +21,9 @@
 <!-- CONNECT ME-->
 
 <h3 align="right">Connect with me :</h3>
+<a href="https://steamcommunity.com/id/vivsvaan">
+  <img align="right" alt="Vivsvaan Sharma - Steam" width="22px" src="img/steam.svg"/>
+</a>
 <a href="https://instagram.com/vivsvaan">
   <img align="right" alt="Vivsvaan Sharma - Instagram" width="22px" src="img/instagram.svg"/>
 </a>
