@@ -24,7 +24,7 @@
 <a href="https://steamcommunity.com/id/vivsvaan">
   <img align="right" alt="Vivsvaan Sharma - Steam" width="22px" src="img/steam.svg"/>
 </a>
-<a href="https://instagram.com/vivsvaan">
+<a href="https://instagram.com/vivsvaans">
   <img align="right" alt="Vivsvaan Sharma - Instagram" width="22px" src="img/instagram.svg"/>
 </a>
 <a href="https://vivsvaan.com">
