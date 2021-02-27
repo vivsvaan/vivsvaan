@@ -34,7 +34,7 @@
   <img align="right" alt="Vivsvaan Sharma - LinkedIn" width="16px" src="img/linkedin.svg"/>
 </a>
 <a href="https://twitter.com/vivsvaan">
-  <img align="right" alt="Vivsvaan Sharma - Twitter" width="64px" src="img/twitter.svg"/>
+  <img align="right" alt="Vivsvaan Sharma - Twitter" width="16px" src="img/twitter.svg"/>
 </a>
 <br/>
 <br/>
