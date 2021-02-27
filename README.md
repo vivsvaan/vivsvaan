@@ -22,16 +22,16 @@
 
 <h3 align="right">Connect with me :</h3>
 <a href="https://steamcommunity.com/id/vivsvaan">
-  <img align="right" alt="Vivsvaan Sharma - Steam" width="64px" src="img/steam.svg"/>
+  <img align="right" alt="Vivsvaan Sharma - Steam" width="16px" src="img/steam.svg"/>
 </a>
 <a href="https://instagram.com/vivsvaans">
-  <img align="right" alt="Vivsvaan Sharma - Instagram" width="64px" src="img/instagram.svg"/>
+  <img align="right" alt="Vivsvaan Sharma - Instagram" width="16px" src="img/instagram.svg"/>
 </a>
 <a href="https://vivsvaan.com">
-  <img align="right" alt="Vivsvaan Sharma" width="64px" src="img/chrome.svg"/>
+  <img align="right" alt="Vivsvaan Sharma" width="16px" src="img/chrome.svg"/>
 </a>
 <a href="https://linkedin.com/in/vivsvaan">
-  <img align="right" alt="Vivsvaan Sharma - LinkedIn" width="64px" src="img/linkedin.svg"/>
+  <img align="right" alt="Vivsvaan Sharma - LinkedIn" width="16px" src="img/linkedin.svg"/>
 </a>
 <a href="https://twitter.com/vivsvaan">
   <img align="right" alt="Vivsvaan Sharma - Twitter" width="64px" src="img/twitter.svg"/>
