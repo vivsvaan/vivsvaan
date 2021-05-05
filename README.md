@@ -46,6 +46,10 @@
 ## 💻 Tech Stack I Work With
 
 <p align="left">
+<!-- <img src="https://img.shields.io/badge/<logo-name-from-simpleicons>-<logo-hex-BGcolor>.svg?&style=for-the-badge&logo=<logo-name-from-simpleicons>&logoColor=<logo-color>" height="25"/> -->
+  
+  <!-- <img src="https://img.shields.io/badge/simpleicon-000000.svg?&style=for-the-badge&logo=python&logoColor=orange" height="25"/> -->
+  
 <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
