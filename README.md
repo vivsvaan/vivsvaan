@@ -50,6 +50,7 @@
   
 <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 <img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img  src="https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=node.js&logoColor=white">
